@@ -1,0 +1,5 @@
+[18495.862207] wlp8s0: RX AssocResp from 30:91:8f:6c:1f:ad (capab=0x1411 status=0 aid=1)
+[18495.862740] wlp8s0: associated
+[18495.862748] IPv6: ADDRCONF(NETDEV_CHANGE): wlp8s0: link becomes ready
+[18638.280090] Hello World!
+[18648.219981] See you later.
